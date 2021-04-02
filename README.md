@@ -1,4 +1,4 @@
-# Plantbook Frontend
+# Plantbook Backend
 
 A social space for gardeners and plant enthusiasts. Find, favorite and view information on over 35,000 plants. 
 
@@ -16,7 +16,7 @@ Signup or login to use the application.
 
 ## Contributing
 
-Bug reports and pull requests are welcome on Github at https://github.com/branmar97/plantbook-frontend
+Bug reports and pull requests are welcome on Github at https://github.com/branmar97/plantbook-backend
 
 ## License
 
