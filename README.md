@@ -1,24 +1,23 @@
-# README
+# Plantbook Frontend
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A social space for gardeners and plant enthusiasts. Find, favorite and view information on over 35,000 plants. 
 
-Things you may want to cover:
+## Usage
 
-* Ruby version
+Signup or login to use the application.
 
-* System dependencies
+## Built Using
 
-* Configuration
+- ReactJS
+- Redux
+- Redux Thunk
+- Ruby on Rails
+- HTML/CSS
 
-* Database creation
+## Contributing
 
-* Database initialization
+Bug reports and pull requests are welcome on Github at https://github.com/branmar97/plantbook-frontend
 
-* How to run the test suite
+## License
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Available as open source under the terms of the MIT license.
